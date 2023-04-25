@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DayOrganizer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <!--todayFragment-->
+    <string name="Today_date">Today is date:</string>
+    <string name="Tasks">Tasks list:</string>
+    <string name="Task_Done">Done</string>
+    <string name="title">Day Organizer</string>
+    <string name="selectTv">Selected task:</string>
+    <string name="today_frag_butt">See calendar</string>
+
+    <!--calendarFragment-->
+    <string name="edit_butt">Edit day</string>
+    <string name="calendar_list">Days:</string>
+
+    <!--datailFragment-->
+    <string name="datailDayTitle">Selected day</string>
+    <string name="datailDayAdd">Add new task</string>
+    <string name="datailDayRemove">Remove task</string>
+    <string name="datailDayEdit">Edit task</string>
+</resources>
